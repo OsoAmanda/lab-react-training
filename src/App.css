@@ -52,3 +52,9 @@ div.color {
 div.credit {
   display: flex;
 }
+
+/* RATING */
+
+div.rating {
+  font-size: 34px;
+}
